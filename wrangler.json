@@ -15,7 +15,7 @@
   "kv_namespaces": [
     {
       "binding": "SITE_CONFIG",
-      "id": "${KV_NAMESPACE_ID}"
+      "id": "23c93786f3114b2d8f56e238fbf06915"
     }
   ]
 }
